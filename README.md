@@ -1,30 +1,30 @@
 # 👋 Hey, I'm mhd-muflih!
 
-### 🌎 Cybersecurity Student | Aspiring Entrepreneur | Tech Enthusiast
+### 🌐 Cybersecurity Student | Aspiring Entrepreneur | Tech Enthusiast
 📍 **Malappuram, Kerala, India**
 
 I'm **Muflih**, an aspiring cybersecurity professional currently pursuing my studies at **Offenso Hackers Academy**. I'm passionate about learning cybersecurity, exploring technology, and building my knowledge step by step.
 
-🎯 **Current focus:** Cybersecurity | 🚀 **Future goal:** Build my own business | ✈️ **Interests:** Travelling & Gaming | 📚 **Hobby:** Reading books
+🎯 **Current focus:** Cybersecurity | 🚀 **Future goal:** Build my own business | ✈️ **Interests:** Travelling & Gaming | 🎬 **Hobby:** Watching movies
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🌎 **Currently learning:** Cybersecurity
+* 🌐 **Currently learning:** Cybersecurity
 * 🎓 **Studying at:** Offenso Hackers Academy
 * 🛠️ **Exploring:** The world of cybersecurity and technology
 * 💡 **Interested in:** Learning new things and improving my skills
 * 🚀 **Aspiring to:** Start my own business
 * 🎮 **Gaming enthusiast**
 * ✈️ **Love travelling**
-* 📖 **Enjoy reading books**
+* 🎬 **Enjoy watching movies**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🔐 Currently Learning
+### 🎬 Currently Learning
 * **CYBERSECURITY**
 
 > *More technologies and skills will be added as I continue learning.*
@@ -47,12 +47,12 @@ Currently, I don't have any public projects to showcase.
 
 ## 🎯 Goals
 
-* 🌎 **Build strong cybersecurity knowledge**
+* 🌐 **Build strong cybersecurity knowledge**
 * 💻 **Develop practical technical skills**
 * 🔍 **Explore ethical hacking and security**
-* 📖 **Continuously learn new technologies**
+* 💻 **Continuously learn new technologies**
 * 🚀 **Build and launch my own business**
-* 🌏 **Grow through new experiences and opportunities**
+* 🌎 **Grow through new experiences and opportunities**
 
 ---
 
@@ -85,9 +85,9 @@ Currently, I don't have any public projects to showcase.
 
 ## 🎮 Beyond Code
 
-✈️ **Travelling** | 🎮 **Gaming** | 📚 **Reading**
+✈️ **Travelling** | 🎮 **Gaming** | 🎬 **Movies**
 
-<p center><i>"Learning today. Building tomorrow."</i></p>
+<p align="center"><i>"Learning today. Building tomorrow."</i></p>
 
 ⭐ **If you find my profile interesting, feel free to explore my repositories!**
 
